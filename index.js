@@ -11,10 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
  // write your code here
- let addItem = {
-   itemName : potato,
-   itemPrice : 3
- }
+
  
  cart.push('item');
  return cart;
